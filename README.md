@@ -1941,3 +1941,9 @@
     ---
 
 </details>
+
+---
+
+##### Использованные ресурсы:
+
+[https://uproger.com/100-voprosov-c-sobesedovaniq-na-pozicziyu-middle-rust-razrabotchik-2025-goda/](https://uproger.com/100-voprosov-c-sobesedovaniq-na-pozicziyu-middle-rust-razrabotchik-2025-goda/)
